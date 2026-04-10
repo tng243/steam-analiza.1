@@ -1,0 +1,11 @@
+venv/
+env/
+.env
+__pycache__/
+images/
+dist/
+build/
+*.spec
+steamid_*.csv
+.idea/
+.vscode/git add .
