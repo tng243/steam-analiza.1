@@ -1,6 +1,7 @@
 # Steam Inventory Analyzer
 
 A desktop application built with Python that fetches Steam inventories and provides real-time market data with price history visualization.
+CSFLOAT API KEY expired, contant to obtain new test key 
 
 ## Features
 * **Multi-threading:** UI remains responsive during API calls.
